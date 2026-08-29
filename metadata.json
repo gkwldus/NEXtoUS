@@ -1,0 +1,6 @@
+{
+  "name": "KYUNGHEE ROAD",
+  "description": "경희대학교 국제캠퍼스 공식 제휴 지도 & 제휴봇 AI 서비스",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
